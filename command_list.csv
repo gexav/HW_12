@@ -1,0 +1,73 @@
+    1  git clone https://github.com/gexav/HW_10
+    2  cd/hw10
+    3  ls
+    4  ~/Documents/GIT/HW_10/
+    5  touch text_ignore.txt
+    6  cd /c/Users/gexav/Documents/GIT/HW_10
+    7  touch text_ignore.txt
+    8  echo "text_ignore.txt" >> .gitignore
+    9  clear
+   10  git status
+   11  git add
+   12  git add .
+   13  git commit
+   14  cd /c/Users/gexav/Documents/GIT/HW_10
+   15  git commit 
+   16  touch main_test.txt
+   17  git add .
+   18  git commit
+   19  cd \c\usersclear
+   20  cd /c/Users/
+   21  cd /c/Users/gexav/Documents/GIT/HW_10/
+   22  nano .gitignore
+   23  git status
+   24  git add .
+   25  git commit
+   26  git commit
+   27  git commit
+   28  git push
+   29  git pull
+   30  git push
+   31  gip merge
+   32  git merge
+   33  git commit
+   34  touch main_test.txt
+   35  git add .
+   36  git commit
+   37  git branch develop
+   38  touch develop_test.txt
+   39  git add .
+   40  git commit
+   41  git commit
+   42  nano develop_test.txt 
+   43  git checkout develop
+   44  git commit
+   45  git commit -a
+   46  git checkout develop 
+   47  touch debelop.txt
+   48  nano debelop.txt 
+   49  touch develop_test.txt
+   50  git add
+   51  git add .
+   52  git commit
+   53  nano develop_test.txt 
+   54  git status
+   55  git add develop_test.txt.
+   56  git add develop_test.txt
+   57  git add -a.
+   58  git add
+   59  git add .
+   60  git commit
+   61  checout main
+   62  git checkout main 
+   63  git merge develop
+   64  git checkout main 
+   65  git status
+   66  git rm
+   67  git rm develop_test.txt
+   68  git status
+   69  git merge develop
+   70  git commit
+   71  git merge develop
+   72  git log
+   73  history > command_list.csv
